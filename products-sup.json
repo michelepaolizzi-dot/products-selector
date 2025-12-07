@@ -9,9 +9,9 @@
     "weight_min": 60,
     "weight_max": 110,
     "stability": 4,
-    "speed": 4,
-    "required_level": "Intermedio",
-    "price": 699
+    "speed": 3,
+    "required_level": "Principiante",
+    "price": 328
   },
   {
     "id": "sup2",
