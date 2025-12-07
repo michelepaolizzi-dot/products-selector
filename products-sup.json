@@ -5,7 +5,7 @@
     "model": "ALLROUNDAIR SL 10'6",
     "image_url": "https://kite-prod.b-cdn.net/25819-thickbox_default/jp-allroundair-sl-10-6-inflatable-sup-package.jpg",
     "discount_url": "https://www.kiteworldshop.com/it/sup-complete-packages/9809-jp-allroundair-sl-10-6-inflatable-sup-package.html?affp=27205#/ap5_pack-9809_defaultcombination",
-    "tags": ["Allround"],
+    "tags": ["allround"],
     "stability": 5,
     "speed": 3,
     "required_level": "Principiante",
@@ -17,7 +17,7 @@
     "model": "CRUISAIR SL 12'6",
     "image_url": "https://kite-prod.b-cdn.net/25834-thickbox_default/jp-cruisair-sl-12-6-inflatable-sup-package.jpg",
     "discount_url": "https://www.kiteworldshop.com/it/sup-complete-packages/9812-jp-cruisair-sl-12-6-inflatable-sup-package.html?affp=27205#/ap5_pack-692130bac4cb5",
-    "tags": ["Touring"],
+    "tags": ["touring"],
     "stability": 4,
     "speed": 4,
     "required_level": "Principiante",
@@ -31,13 +31,13 @@
     "youtube_review_url": "https://youtu.be/yGJXaIn-ABQ?si=BCfSDTiHfuonyakM",
     "discount_code": "sportalcentro10",
     "discount_url": "https://www.jbay.zone/prodotto/sup-gonfiabile-comet-j2/",
-    "tags": ["Allround"],
+    "tags": ["allround"],
     "stability": 5,
     "speed": 3,
     "required_level": "Principiante",
     "price": 449
   },
-    {
+  {
     "id": "Jbay_CometJ3",
     "brand": "JBay.Zone",
     "model": "Comet J3 11'6",
@@ -51,7 +51,7 @@
     "required_level": "Principiante",
     "price": 449
   },
-     {
+  {
     "id": "Thurso_Touring116",
     "brand": "Thurso",
     "model": "Expedition 11'6",
@@ -61,7 +61,7 @@
     "stability": 5,
     "speed": 4,
     "required_level": "Principiante",
-    "price": 549,99
+    "price": 549.99
   },
   {
     "id": "Thurso_Touring126",
@@ -73,7 +73,7 @@
     "stability": 5,
     "speed": 4,
     "required_level": "Principiante",
-    "price": 599,99
+    "price": 599.99
   },
   {
     "id": "Thurso_Allround106",
@@ -86,19 +86,11 @@
     "stability": 5,
     "speed": 3,
     "required_level": "Principiante",
-    "price": 449,99
+    "price": 449.99
   },
-    {
+  {
     "id": "Thurso_Allround11",
     "brand": "Thurso",
     "model": "Waterwalker 11'",
     "image_url": "https://thursosurf.com/cdn/shop/files/waterwalker_132_12_cm_main_44a9b6c7-13f0-43c2-9c53-a46048fffa75.jpg?v=1753347930&width=1800",
-    "youtube_review_url": "https://youtu.be/NOJEHmkaaHA?si=EPogoO6OkkOmkj2J",
-    "discount_url": "https://thursosurf.com/it/products/waterwalker-all-around-sup-132",
-    "tags": ["allround"],
-    "stability": 5,
-    "speed": 3,
-    "required_level": "Principiante",
-    "price": 499,99
-  }
-]
+    "youtube_review_url": "https://youtu.be/NOJEHmkaaHA?si=EP
