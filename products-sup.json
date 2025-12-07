@@ -51,32 +51,54 @@
     "required_level": "Principiante",
     "price": 449
   },
-    {
-    "id": "sup3",
-    "brand": "thurso",
-    "model": "waterwalker",
-    "image_url": "https://via.placeholder.com/300?text=Gladiator+Pro+12.6",
-    "youtube_review_url": "https://youtu.be/def456",
-    "discount_code": "GLADIATOR10",
-    "discount_url": "https://shop.com/gladiator?coupon=GLADIATOR10",
-    "tags": ["touring", "family"],
+     {
+    "id": "Thurso_Touring116",
+    "brand": "Thurso",
+    "model": "Expedition 11'6",
+    "image_url": "https://thursosurf.com/cdn/shop/files/expedition_150_12_cm_main_feature_1.jpg?v=1753433349&width=1800",
+    "discount_url": "https://thursosurf.com/it/products/expedition-touring-sup-138",
+    "tags": ["touring"],
     "stability": 5,
-    "speed": 3,
-    "required_level": "Intermedio",
-    "price": 1079
+    "speed": 4,
+    "required_level": "Principiante",
+    "price": 549,99
   },
   {
-    "id": "sup12",
-    "brand": "Fanatic2",
-    "model": "Ray Air2",
-    "image_url": "https://via.placeholder.com/300?text=Fanatic+Ray+Air",
-    "youtube_review_url": "https://youtu.be/abc123",
-    "discount_code": "FANATIC10",
-    "discount_url": "https://shop.com/fanatic?coupon=FANATIC10",
+    "id": "Thurso_Touring126",
+    "brand": "Thurso",
+    "model": "Expedition 12'6",
+    "image_url": "https://thursosurf.com/cdn/shop/files/expedition_150_12_cm_main_feature_1.jpg?v=1753433349&width=1800",
+    "discount_url": "https://thursosurf.com/it/products/expedition-touring-sup-138",
     "tags": ["touring"],
-    "stability": 4,
+    "stability": 5,
     "speed": 4,
-    "required_level": "Intermedio",
-    "price": 699
+    "required_level": "Principiante",
+    "price": 599,99
+  },
+  {
+    "id": "Thurso_Allround106",
+    "brand": "Thurso",
+    "model": "Waterwalker 10'6",
+    "image_url": "https://thursosurf.com/cdn/shop/files/waterwalker_126_dusk_main_feature_3.jpg?v=1753346886&width=1800",
+    "youtube_review_url": "https://youtu.be/NOJEHmkaaHA?si=EPogoO6OkkOmkj2J",
+    "discount_url": "https://thursosurf.com/it/products/waterwalker-all-around-sup-126",
+    "tags": ["allround"],
+    "stability": 5,
+    "speed": 3,
+    "required_level": "Principiante",
+    "price": 449,99
+  },
+    {
+    "id": "Thurso_Allround11",
+    "brand": "Thurso",
+    "model": "Waterwalker 11'",
+    "image_url": "https://thursosurf.com/cdn/shop/files/waterwalker_132_12_cm_main_44a9b6c7-13f0-43c2-9c53-a46048fffa75.jpg?v=1753347930&width=1800",
+    "youtube_review_url": "https://youtu.be/NOJEHmkaaHA?si=EPogoO6OkkOmkj2J",
+    "discount_url": "https://thursosurf.com/it/products/waterwalker-all-around-sup-132",
+    "tags": ["allround"],
+    "stability": 5,
+    "speed": 3,
+    "required_level": "Principiante",
+    "price": 499,99
   }
 ]
