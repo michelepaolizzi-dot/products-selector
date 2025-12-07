@@ -54,12 +54,12 @@
     "image_url": "https://kite-prod.b-cdn.net/25819-thickbox_default/jp-allroundair-sl-10-6-inflatable-sup-package.jpg",
     "discount_code": "GLADIATOR10",
     "discount_url": "https://www.kiteworldshop.com/it/sup-complete-packages/9809-jp-allroundair-sl-10-6-inflatable-sup-package.html?affp=27205#/ap5_pack-9809_defaultcombination",
-    "tags": ["touring", "family"],
-    "weight_min": 80,
+    "tags": ["all-round", "family"],
+    "weight_min": 40,
     "weight_max": 120,
     "stability": 5,
     "speed": 3,
-    "required_level": "Intermedio",
-    "price": 1079
+    "required_level": "Principiante",
+    "price": 328
   }
 ]
