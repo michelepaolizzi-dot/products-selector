@@ -8,10 +8,24 @@
     "tags": ["allround"],
     "weight_min": 60,
     "weight_max": 110,
-    "stability": 4,
+    "stability": 5,
     "speed": 3,
     "required_level": "Principiante",
     "price": 328
+  },
+  {
+    "id": "JP_touring_126",
+    "brand": "JP",
+    "model": "CRUISAIR SL 12'6",
+    "image_url": "https://kite-prod.b-cdn.net/25834-thickbox_default/jp-cruisair-sl-12-6-inflatable-sup-package.jpg",
+    "discount_url": "https://www.kiteworldshop.com/it/sup-complete-packages/9812-jp-cruisair-sl-12-6-inflatable-sup-package.html?affp=27205#/ap5_pack-692130bac4cb5",
+    "tags": ["touring"],
+    "weight_min": 60,
+    "weight_max": 110,
+    "stability": 4,
+    "speed": 4,
+    "required_level": "Principiante",
+    "price": 418
   },
   {
     "id": "sup2",
