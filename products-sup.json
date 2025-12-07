@@ -40,11 +40,11 @@
     "discount_code": "GLADIATOR10",
     "discount_url": "https://shop.com/gladiator?coupon=GLADIATOR10",
     "tags": ["touring", "family"],
-    "weight_min": 65,
+    "weight_min": 80,
     "weight_max": 120,
     "stability": 5,
     "speed": 3,
-    "required_level": "Principiante",
-    "price": 579
+    "required_level": "Intermedio",
+    "price": 1079
   }
 ]
