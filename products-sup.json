@@ -18,7 +18,7 @@
   {
     "id": "sup2",
     "brand": "Gladiator",
-    "model": "Pro 12’6\"",
+    "model": "Pro 12'6",
     "image_url": "https://via.placeholder.com/300?text=Gladiator+Pro+12.6",
     "youtube_review_url": "https://youtu.be/def456",
     "discount_code": "GLADIATOR10",
@@ -34,7 +34,7 @@
     {
     "id": "sup3",
     "brand": "thurso",
-    "model": "waterwalker\"",
+    "model": "waterwalker",
     "image_url": "https://via.placeholder.com/300?text=Gladiator+Pro+12.6",
     "youtube_review_url": "https://youtu.be/def456",
     "discount_code": "GLADIATOR10",
