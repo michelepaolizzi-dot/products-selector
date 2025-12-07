@@ -1,11 +1,9 @@
 [
   {
-    "id": "sup1",
-    "brand": "Fanatic",
-    "model": "Ray Air",
+    "id": "JP_allround_106",
+    "brand": "JP",
+    "model": "ALLROUNDAIR SL 10'6",
     "image_url": "https://kite-prod.b-cdn.net/25819-thickbox_default/jp-allroundair-sl-10-6-inflatable-sup-package.jpg",
-    "youtube_review_url": "https://youtu.be/abc123",
-    "discount_code": "FANATIC10",
     "discount_url": "https://www.kiteworldshop.com/it/sup-complete-packages/9809-jp-allroundair-sl-10-6-inflatable-sup-package.html?affp=27205#/ap5_pack-9809_defaultcombination",
     "tags": ["touring"],
     "weight_min": 60,
